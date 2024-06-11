@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\bin\Debug\TextBaseGame.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\bin\Debug\TextBaseGame.exe
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\bin\Debug\TextBaseGame.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\obj\Debug\TextBaseGame.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\obj\Debug\TextBaseGame.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\obj\Debug\TextBaseGame.exe
+C:\Users\ADMIN\OneDrive\Máy tính\c#\TextBaseGame\TextBaseGame\obj\Debug\TextBaseGame.pdb
